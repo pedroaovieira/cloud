@@ -47,6 +47,8 @@
 - awsgoat
 - flaws - <http://flaws.cloud.s3.amazonaws.com/index.html>
 
+<http://flaws2.cloud/>
+
 - <https://n0j.github.io/2017/10/02/aws-s3-ctf.html>
 - <https://world.hey.com/alois/aws-capture-the-flag-write-up-e64fa089>
 
@@ -54,6 +56,11 @@
 - <https://micrictor.github.io/flAWS/>
 - <https://blog.welcomethrill.house/2021/03/flawscloud-experience-and-write-up.html>
 - <https://blog.pwne.rs/post/flaws/>
+
+
+https://executeatwill.com/2022/01/17/Flaws.Cloud-Walkthrough/
+https://executeatwill.com/2022/01/20/Flaws2.Cloud-Walkthrough/
+
 
 ---
 
