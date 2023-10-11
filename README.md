@@ -18,6 +18,11 @@
 ---
 ## External Resource
 
+- https://rhinosecuritylabs.com/landing/aws-penetration-testing-report/
+- https://www.getastra.com/blog/security-audit/cloud-penetration-testing/
+- https://github.com/appsecco/attacking-cloudgoat2
+- 
+
 ### Tools list
 
 
@@ -33,6 +38,7 @@
 
 ### Videos
 
+https://youtube.com/playlist?list=PLMoaZm9nyKaNRN0SoR_PBVYc_RAhbZdG4&si=7ULnIPlKHyFaLM18
 
 ---
 
