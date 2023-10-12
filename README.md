@@ -21,7 +21,8 @@
 - https://rhinosecuritylabs.com/landing/aws-penetration-testing-report/
 - https://www.getastra.com/blog/security-audit/cloud-penetration-testing/
 - https://github.com/appsecco/attacking-cloudgoat2
-- 
+
+- https://pentestbook.six2dez.com/enumeration/cloud/aws
 
 ### Tools list
 
