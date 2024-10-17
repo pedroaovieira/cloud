@@ -39,6 +39,8 @@
 
 ### Videos
 
+https://www.youtube.com/watch?v=JUO-m5ga-gc&list=PLMoaZm9nyKaMwjXerbr2xXPgv_4uBOqU0
+
 https://youtube.com/playlist?list=PLMoaZm9nyKaNRN0SoR_PBVYc_RAhbZdG4&si=7ULnIPlKHyFaLM18
 
 ---
